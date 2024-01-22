@@ -1,0 +1,25 @@
+
+.Main-Header-Blog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-size: 25px;
+    font-weight: 900;
+    background-color: hsl(216, 23%, 76%);
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.Rotate-Text {
+    transform: rotate(-90deg);
+    font-size: 25px;
+    background-color: #b5c0d1;
+    color: red;
+}
+
+.Siren-text {
+    background-color: #b5c0d1;
+}
